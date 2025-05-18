@@ -35,7 +35,3 @@ To clean and remove library:
 ```bash
 make fclean
 ```
-To use the library simply just compile your main with library
-```bash
-cc main.c libftprint.a -I./includes/
-```
