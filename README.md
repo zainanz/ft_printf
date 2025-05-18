@@ -1,4 +1,4 @@
-# 📦 Custom `printf` Implementation
+# 📦 `Printf` Implementation
 
 A lightweight implementation of the standard `printf` function in C, supporting several format specifiers. Built as a static library (`libftprintf.a`) with a clean and portable `Makefile`.
 
